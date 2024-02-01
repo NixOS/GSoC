@@ -14,7 +14,7 @@ We have to set two hard requirements for mentors:
 
 ## Ideas list
 
-[[ideas.md]]
+[ideas.md](./ideas.md)
 
 Anyone is free to submit ideas in the form of a PR.
 But you should note that we can only accept ideas where people would be willing to mentor them. If an idea is dear to your heart, you know what to do :)
