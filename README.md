@@ -18,6 +18,7 @@ We have to set two hard requirements for mentors:
 
 Anyone is free to submit ideas in the form of a PR.
 But you should note that we can only accept ideas where people would be willing to mentor them. If an idea is dear to your heart, you know what to do :)
+
 From the [mentor guide](https://google.github.io/gsocguides/mentor/defining-a-project-ideas-list):
 
 > Each project on the Ideas list should include: a) a project title/description b) more detailed description of the project (2-5 sentences) c) expected outcomes d) skills required/preferred e) possible mentors f) expected size of project (90, 175 or 350 hour – yes, 3 options starting in 2023). And if possible, an easy, medium or hard rating of each project. This helps the more inexperience folks not get overwhelmed and they can focus on reviewing easy project ideas.
