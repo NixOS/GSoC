@@ -1,5 +1,7 @@
 This is the repo we will use to coordinate Google Summer of Code 2024
 
+> WORK IN PROGRESS: please don't read into this too much, we are still working on this document
+
 It all started here: https://github.com/NixOS/foundation/issues/115
 
 ## How to become a mentor
