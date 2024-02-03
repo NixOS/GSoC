@@ -101,7 +101,7 @@ This is an example of a real idea that was submitted https://github.com/NixOS/GS
 
 **Author**: FREE
 
-**Proposed Menthor**: @Janik-Haag
+**Proposed Menthor**: [@Janik-Haag](https://github.com/Janik-Haag)
 
 **Effort**: SMALL
 
