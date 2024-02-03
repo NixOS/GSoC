@@ -85,9 +85,9 @@ Detailed description of the project.
 
 ### Linkography
 
-* [Link1](https://localhost/THIS IS CLEARLY A BROKEN LINK): Link1 explanation
-* [Link2](https://localhost/THIS IS CLEARLY A BROKEN LINK): Link2 explanation
-* [Link3](https://localhost/THIS IS CLEARLY A BROKEN LINK): Link3 explanation
+* [Link1](https://localhost/THIS_IS_CLEARLY_A_BROKEN_LINK): Link1 explanation
+* [Link2](https://localhost/THIS_IS_CLEARLY_A_BROKEN_LINK): Link2 explanation
+* [Link3](https://localhost/THIS_IS_CLEARLY_A_BROKEN_LINK): Link3 explanation
 
 ## Idea Example
 
