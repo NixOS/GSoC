@@ -2,15 +2,13 @@
 
 ## Intro
 
-Welcome to the Google Summer of Code ideas repository!
-Here you can propose new ideas to participate to this fantastic event 
-and contribute to the nix/nixOS/nixpkgs community ecosystem!
+Welcome to the NixOS Google Summer of Code ideas list!
+Here you can propose new ideas to participate in this fantastic event 
+and contribute to the NixOS community ecosystem.
 
 Below you will find all instructions to propose your ideas, so don't be shy
 to contribute!
 
-Summerily yours,
-the repo maintainers.
 
 ## Submission fields explanation
 
@@ -22,38 +20,30 @@ that will contain all the artifacts for that idea.
 ### Title
 The title should be clear, concise and inspirative.
 
-It should also be prefixed by a categorey chosen among:
-    * nix
-    * nixpkgs
-    * nixos
-Depending on which area of the ecosystem more closely fits your idea.
 
-### Author
-Just the author's github handle.
+### Possible Menthors
 
-### Proposed Menthor
-If you're in contact with a member of the nix community who's interested in
-helping you as your direct menthor, you can mention the github handle here so
-that the repo maintainers wil be added to the conversation in the PR.
+- [@your-self](https://github.com/ghost)
+
+And if you know someone else who might be interested, ask them beforehand and if they are fine with it add them to the list and ping them in the PR adding the idea.
 
 ### Effort
 This is the "size" of the effort level of the idea. It should be one of:
-    * SMALL
-    * MEDIUM
-    * LARGE
+
+- SMALL (90h)
+- MEDIUM (175h)
+- LARGE (350h)
 
 ### Difficulty
 This is how "hard" it is at a technical level to implement the idea. It can be:
-    * EASY
-    * MEDIUM
-    * HARD
-### Overview/Abstract
-This is a short description of the idea. Try to stay within the limit of 400
-characters. Think of this as your "elevator pitch".
+ 
+- EASY
+- MEDIUM
+- HARD
+
 ### Description
-Here you can add all the nitty gritty details of the idea. Feel free to add
-anything that you think is relevant for the staff to understand and evaluate
-your idea.
+Here you should explain what the idea is, and why it would be interesting to work on it.
+It should only be 2-5 sentences.
 ### Linkography
 Just the link to the relevant documentation and/or description you wrote
 above.
