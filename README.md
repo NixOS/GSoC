@@ -2,7 +2,7 @@ This is the repo where we will coordinate Google Summer of Code.
 
 ## Ideas list
 
-[ideas.md](./ideas/2024.md)
+[ideas.md](./ideas/2026.md)
 
 Anyone is free to submit ideas in the form of a PR.
 But you should note that we can only accept ideas where people would be willing to mentor them. If an idea is dear to your heart, you know what to do :)
