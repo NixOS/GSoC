@@ -1,5 +1,11 @@
 This is the repo where we will coordinate Google Summer of Code.
 
+The admins for 2026 are:
+- @roberth, [@roberthensing:matrix.org](https://matrix.to/#/@roberthensing:matrix.org)
+- @infinisil, [@infinisil:matrix.org](https://matrix.to/#/@infinisil:matrix.org)
+
+Reach out in [#gsoc:nixos.org](https://matrix.to/#/#gsoc:nixos.org)!
+
 ## Ideas list
 
 [ideas.md](./ideas/2026.md)
