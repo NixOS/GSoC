@@ -27,6 +27,10 @@ What other things you are doing, maybe you are a student or do a internship at s
 Once you found a idea you think is interesting or want to propose your own you can join our [gsoc matrix channel](https://matrix.to/#/#gsoc:nixos.org).
 Feel free to ask questions if something is unclear, we will also try to help if anything else is unclear.
 
+Remember that proposals have to be submitted through the GSoC webapp!
+
+A good starting point for more info is [the GSoC contributor applicant FAQ](https://developers.google.com/open-source/gsoc/faq#gsoc_contributor_applicants).
+
 ---
 
 Matrix is a messenger protocol used by many open source software organizations.
