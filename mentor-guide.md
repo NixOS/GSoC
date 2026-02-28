@@ -23,7 +23,7 @@ It should only be 2-5 sentences.
 List skills needed/recommended to work on the Project.
 A required skill might be prior knowledge off a specific programming language or how to use specific tooling, while some recommended skill might be something like domain specific knowledge or computer science concepts.
 
-### Possible Menthors
+### Possible Mentors
 
 - [@your-self](https://github.com/ghost)
 
